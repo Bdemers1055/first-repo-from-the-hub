@@ -1,2 +1,5 @@
 this is a conflict file
+
 apples
+
+this is some more text for the conflict
